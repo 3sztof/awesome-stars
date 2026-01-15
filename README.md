@@ -368,6 +368,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
 - [aws-samples/aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the
+- [awslabs/aws-lambda-security-controls](https://github.com/awslabs/aws-lambda-security-controls) - This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS API calls to trigger Amazon Simple Notification Service (Amazon S
 - [MicrosoftDocs/terminal](https://github.com/MicrosoftDocs/terminal) - 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [microsoft/MixedRealityDesignLabs_Unity](https://github.com/microsoft/MixedRealityDesignLabs_Unity) - Mixed Reality Design Labs share experimental samples, explorations and learning from Windows Mixed Reality Design group. If you are looking for official toolkit, please use Mixed Reality Toolkit
@@ -470,7 +471,6 @@
 - [aws-samples/aws-serverless-ecommerce-platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform) - Serverless Ecommerce Platform is a sample implementation of a serverless backend for an e-commerce website. This sample is not meant to be used as an e-commerce platform as-is, but as an inspiration o
 - [aws-samples/secure-pipelines-in-aws-workshop](https://github.com/aws-samples/secure-pipelines-in-aws-workshop) - Hands-on workshop on how to build security automation in pipelines
 - [jmfuchs/aws-guardduty-remediation-workflow](https://github.com/jmfuchs/aws-guardduty-remediation-workflow) - A Step Functions microservice for remediating GuardDuty findings.
-- [awslabs/aws-lambda-security-controls](https://github.com/awslabs/aws-lambda-security-controls) - This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS API calls to trigger Amazon Simple Notification Service (Amazon S
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python

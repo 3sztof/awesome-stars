@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [RimantasZ/contextspy](https://github.com/RimantasZ/contextspy) - Context profiler for LLMs and AI agents - used to introspect context contents and reduce token costs
 - [stariodev/stario](https://github.com/stariodev/stario) - Craft realtime hypermedia apps that are a joy to write and ship. A small asyncio Python framework with its own compiled HTTP server, SSE streams, and Datastar built in. Not ASGI.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
